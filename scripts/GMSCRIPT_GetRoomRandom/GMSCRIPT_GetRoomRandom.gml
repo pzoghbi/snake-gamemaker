@@ -1,0 +1,1 @@
+return irandom(GMOBJECT_Game.RoomWidth-1);
